@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is about second branch information
+=======
+This is about the info of secondBranch2
+>>>>>>> secondBracnch2
